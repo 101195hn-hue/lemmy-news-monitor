@@ -11,6 +11,8 @@ config = json.loads((ROOT / 'keywords.json').read_text(encoding='utf-8'))
 path = ROOT / 'news.json'
 existing = json.loads(path.read_text(encoding='utf-8')) if path.exists() else []
 by_url = {x['url']: x for x in existing}
+for record in by_url.values():
+    record.setdefault('first_seen', record.get('published', now.isoformat()))
 for category, keywords in config.items():
     for keyword in keywords:
         query = f'"{keyword}" when:7d'
@@ -30,7 +32,7 @@ for category, keywords in config.items():
                 source = item.find('source')
                 publisher = source.text if source is not None else ''
                 if link not in by_url:
-                    by_url[link] = {'title': title, 'url': link, 'published': published.isoformat(), 'source': publisher or '', 'categories': [category], 'keywords': [keyword]}
+                    by_url[link] = {'title': title, 'url': link, 'published': published.isoformat(), 'first_seen': now.isoformat(), 'source': publisher or '', 'categories': [category], 'keywords': [keyword]}
                 else:
                     record = by_url[link]
                     if category not in record['categories']: record['categories'].append(category)
@@ -38,7 +40,7 @@ for category, keywords in config.items():
         except Exception as exc:
             print(f'WARN {keyword}: {exc}')
         time.sleep(0.15)
-cutoff = now - timedelta(days=90)
-result = sorted((x for x in by_url.values() if datetime.fromisoformat(x['published']) >= cutoff), key=lambda x: x['published'], reverse=True)
+# Keep all collected articles; do not delete older records.
+result = sorted(by_url.values(), key=lambda x: x['published'], reverse=True)
 path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
 print(f'Updated {len(result)} records at {datetime.now(KST).isoformat()}')
