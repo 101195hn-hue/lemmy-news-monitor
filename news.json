@@ -1,10 +1,520 @@
 [
   {
+    "title": "메디인테크, 시리즈C 338억 확보…수술로봇 개발 추진 - 데일리팜",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qNEx6ejNRdGoxbnNxTzFEVks0VFhfU1JZX3N4SWxSTklfSk1Md0dlYnpqc2oxVUotTVlyNUpSNUJQMTQzMkhObGRXVXBTTXEwMXkzU2hB?oc=5",
+    "published": "2026-11-17T22:50:07+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "데일리팜",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "[단독]삼성전자·엔비디아, 프랑스 AI 로봇기업 '제네시스AI'에 투자 - 더트래커",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRS3NQODJqcVNHblNSbkZtbW90TUZNZDJ2bFNVcDl5SFZjSjlxa0JXY3E2M2hBX0VJUUlvX0liOUxDOG5qNVV0cURnd3V5dzhaNU1tS0VURHk?oc=5",
+    "published": "2026-11-17T22:01:25+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "더트래커",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "왕관 쓰면 왕, 안전모 쓰면 작업자… ‘N잡러 로봇’ 시대 - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORUlQV2h3X1NaMVA5cEtrWThDa1pTRzNfeWRydXNSUTZVOVVRbXRKWDZHX2pLcndMRzlhYU5OWUNpdHprdlcwM0tidHZhT0dVajM1Qk14cm8yS2pDcHlSZzByMHNUQy1paUxnNFByU1oxZ3VIaU9veWtVU2dfVHdoaVM3RQ?oc=5",
+    "published": "2026-11-17T21:04:33+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "조선일보",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "소셜로봇",
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "[책으로 뉴스읽기] 로봇세는 필요한가 - 경기신문",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pUFFSWjJOS2JQR1FwWE9YQzg0TzIyc0FMZ28yZnA0ZUlFa3RtUk5vNVlwcDBKTVVSVDRlbDFOeXVnYXdsT2NyMlVTUWRjV0NmSG9iMmR4ZGE0b3RET0lNRnZ3?oc=5",
+    "published": "2026-11-17T21:00:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "경기신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "지드래곤 소속사, AI 로봇 개발 협력 - BNT뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbmszNVc1RnR6UkllV1dPTTU3bDE1Ni1FM2xIUGpjOFdzVWpTbzhGTEloWlhJZHpiRTdKUFlqRG0xVlU2eWRWSTJNVHV3TG4tR2hhelBuSFpVZk5tSUJ5MjVacWE?oc=5",
+    "published": "2026-11-17T20:30:33+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "BNT뉴스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "반려로봇",
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "아이비테크, 4면 38인치 대형 LCD 탑재 AI 자율주행 로봇 ‘FOURCAST’ 선보여 - 로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xZjEyeS15OTBaUEZ5cEotSEZRbnFuUnh5QTk2TDNNSGQwRGx6U2dkYjl3enFNS2FSNXNpUF9pejNJbkRJR0hqaEZWY0VkcWg4eDhIandVM2syLVFKMFNWc3oyaFl0YjktVHlGaQ?oc=5",
+    "published": "2026-11-17T13:08:51+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "로봇신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "서비스로봇"
+    ]
+  },
+  {
+    "title": "지드래곤 소속사 갤럭시코퍼레이션, 주걸륜 IP 기업과 AI·로봇 사업 협약 체결 - 톱셀럽뉴스",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HbEdlVjNrdjRKel81b0FkcnR0M1Bxdk9kaDJMeGNvQ3VVajRXTURra1VmS0I1dDZpS0JBT3QtUTR6cjlQekM3RERhTWFKcENvQkQ5LUdtWWZtWGJLVGtzQU9IdV9YM0M4aHBV?oc=5",
+    "published": "2026-11-17T11:24:51+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "톱셀럽뉴스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "반려로봇"
+    ]
+  },
+  {
+    "title": "경남 제조업 '피지컬 AI' 대전환…로봇 도입 매칭 성황 - 뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pajJfaDdnZFRFdGFJNkJianJnUzBRc2MzT1FzWXlVRVZTaE56SC1SYi0wNFlaX19xek5SZHFvWEh4M1ZKMlVGelB6cGpZdHZib3R4VUJETEE5QmpRQmNSV0ZyN3U4SFAydXk2ZGhxX0N0SURjcnlBUdIBeEFVX3lxTE1pajJfaDdnZFRFdGFJNkJianJnUzBRc2MzT1FzWXlVRVZTaE56SC1SYi0wNFlaX19xek5SZHFvWEh4M1ZKMlVGelB6cGpZdHZib3R4VUJETEE5QmpRQmNSV0ZyN3U4SFAydXk2ZGhxX0N0SURjcnlBUQ?oc=5",
+    "published": "2026-11-17T11:19:04+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "뉴시스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "중부발전, ‘지능형 로봇 챌린지’ 개최… 발전소 현장 피지컬 AI 기술 발굴 - 한국전력신문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uSFR3MzNEc2N6b3lRbUFhNFRlSy1JSUdQclo1MW5qbDRMT25sT2FPa3puOTI5UzZBRjQ4SlozaEg0ZDVaTGp2Sy1NYmdtaEM2VE9ZWlZCM2FEYlNzZWphS2hFU3g0TFF3eVE?oc=5",
+    "published": "2026-11-17T10:53:50+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "한국전력신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "급식 인력난, AI·로봇으로 해법 찾는다 - 대한급식신문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VemRQeHRUdml3UWp1Yk04MWZ1QnQtZUNNdTEwdl83eGxGQks5T0pnNFBCZTFRbFFzSDNUbDJzOEJZTk5Ha3N6V0FUTHAtaWFlM252TkU0V1l4c2pJXzR3eGdVRXJlM1pJRmc?oc=5",
+    "published": "2026-11-17T10:46:30+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "대한급식신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "주걸륜 테마주와 지드래곤 소속사, 파트너십 강화해 AI, 로봇 제품 공동 개발 나선다 - 지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6Zkt2OHp3V09zTWlvN015LTF6MnM4a1M5SDlqb0hXalVLdUVlbWpiT2xOY2UyZjBhaWlzNUdKNWFsa3NyZHBjZzZaRHZrV25XMDZqVGZB?oc=5",
+    "published": "2026-11-17T10:10:02+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "지디넷코리아",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "반려로봇",
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "메디인테크, 338억 원 시리즈C 유치… AI 로봇내시경 넘어 수술로봇 개발 - 플래텀(Platum)",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SWkdPVXEyVzZlZDEycXE0TlBlS05LNFNpOTlLUzlzMy16SjRLdHlLSFpqZC15VkRkTjc2dGw5VHdhMFM2a1c5Ug?oc=5",
+    "published": "2026-11-17T08:45:51+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "플래텀(Platum)",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "피지컬AI 확산에 로봇법 정비 속도…상용화 걸림돌 해소 과제 - 전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKT0M1T0EyNXNyQk9xY1JxazFTczdPb0g0UlZEaXF1Z05xTmxqUVlXQklSWU5yeEhPNUlfRlloalRTZktFZmt3X0FFZFBKQQ?oc=5",
+    "published": "2026-11-17T08:00:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "전자신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "경남AI·로봇산업협 ‘제조기업 지능형 로봇 세미나’ - 경남도민일보",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fbnZKWUhsRlRibm94aVZVYlJaUHctVFR5VmxleFJHcTFRVDVmRFdteDJONzktTTBNTjV1Nk9EYkkxZm9obDFKcTNVMEIyRkdmU3c3SzQxcWhSX01wRE5aQnlsbjlmcEdfVlE?oc=5",
+    "published": "2026-11-17T07:53:34+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "경남도민일보",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "국토안전원·철도기술연구원, ‘피지컬 AI 로봇’ 활용 터널 안전진단 - 주간한국",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EU21wWUt1SENWdWl5RFl0allrQktZNHR1ekRRamtlREhIZzF0aXJVTV9iczBQUi1tVlFRVWZvOWg3eHY1c1RZT2ZwNko5a3BNV19obzZsODdJM1d5c3QzV29fLXZyVFpMS3RzTUVKd3VtdTg30gF0QVVfeXFMTkRTbXBZS3VIQ1Z1aXlEWXRqWWtCS1k0dHV6RFFqa2VESEhnMXRpclVNX2JzMFBSLW1WUVFVZm85aDd4djVzVFlPZnA2SjlrcE1XX2hvNmw4N0kzV3lzdDNXb18tdnJUWkxLdHNNRUp3dW11ODc?oc=5",
+    "published": "2026-11-17T07:50:35+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "주간한국",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "국토관리원, 피지컬 AI 로봇·라이다 동원 분당터널 안전진단 - 매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByYm50dll0ajJEd1ZwU2s3OWtIVWNWN2JIRXYwd3pSNFRobERIaGNqNndfdUNlZ2pZWGxWeFczWjVZNTltaVZuX3J3dUhlOWhWN2c?oc=5",
+    "published": "2026-11-17T07:46:03+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "매일경제 마켓",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "수술실부터 재활병동까지…의료현장 파고드는 K-로봇 - 지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSYW95VDRxWjRXYy1yVTBQT2RPc1NLamlnTU12ckFia0xXU3g4OVRscHhxay1FekV2T0JScV9PUTRjV19COF8tYnJfOXZtYlF3UGpaWGtR?oc=5",
+    "published": "2026-11-17T07:45:51+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "지디넷코리아",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "中 화웨이 '청소 로봇' 내놨다...로봇 모델 시장 진격 - 로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93SWRmU0R2OW1YM280dzZKY09zQjFOR2ozLVBkV1l2b3dZZmZvY3hQT2swVHBTMFVGamM2bHRqRXo1Q3FXazFZMnJ3RzRCWnN2enh6ZG5ZRm1sU05VSXVGXzYybktSbGtqeGhKcQ?oc=5",
+    "published": "2026-11-17T07:40:33+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "로봇신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "서비스로봇"
+    ]
+  },
+  {
+    "title": "산단공 전북본부, 전북권 산업단지 에너지·제조AI·로봇 수요-공급 매칭상담회 개최 - 전북도민일보",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05LWw0bC1pNnZHVENvVzN2TXJ3Z1RzRlh6VzQxN0pyRmQwbHRtZm1faXQxazRVR3pRMndHVXp0c3RJWklWeTNMQm5ZWkNGVWhkYjJfMl8tTFpWNWdvOTQ3dU9Vc1UwZm5zNWc?oc=5",
+    "published": "2026-11-17T07:20:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "전북도민일보",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "AI 로봇을 만난 기계…`다맥스`서 만난 제조업의 진화 - 매일신문",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HRFhaNmFPeTVUVE1Bc1dfcHNObHBXMFhMajFnSHpPb1hkVUdpQlhyajhkdWR2d04wX3ZfbzNkUGVpM24xYjVrbkVaZmVBZG1kZ2ZRN2xMWVJqN2tDR2VLNldR?oc=5",
+    "published": "2026-11-17T07:11:28+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "매일신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "AI 도입 확산에도 수익성은 과제…로봇·소프트웨어주 차별화 확대 - 핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHV080QnlHYldmZUpMYVl6Z2ZxRjVVbEU0ZlJrZXM0VkotQXFpTHpLcHRHUUlreWwzeUIzVmJWTEZtMENYVjc3VmZZWnlYN0hYRzNtYW5SQk03UE1NTFVxVldzV0dhUjlUQXBlSmVLRk9SMnNETk9N0gF3QVVfeXFMUEdXTzRCeUdiV2ZlSkxhWXpnZnFGNVVsRTRmUmtlczRWSi1BcWlMektwdEdRSWt5bDN5QjNWYlZMRm0wQ1hWNzdWZllaeVg3SFhHM21hblJCTTdQTU1MVXFWV3NXR2FSOVRBcGVKZUtGT1Iyc0ROT00?oc=5",
+    "published": "2026-11-17T06:48:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "핀포인트뉴스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "서비스로봇"
+    ]
+  },
+  {
+    "title": "3분기 벤처투자 '역대 최대' 12.6조…AI 겨냥한 반도체·로봇에 뭉칫돈 - 전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdTg3NmNFaGU3Y0VkTWpqVHZLQ214cEk4S0NOUEExRHRYSEpCOHRoM05YX2dfUE1aY2Y3cDdHU1VMTFRNcGhMT3ljamxCQQ?oc=5",
+    "published": "2026-11-17T05:44:28+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "전자신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "국토안전관리원-철도기술연구원, AI 로봇 활용 터널 정밀안전진단 - CNB뉴스",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80Y0JBZUJUXzRYQ1dxOWhhN3pnbWx5MWhOanBVLVBGeDRDSkFzLUJfV3dlam9xa1JidG5CdkdJNzRxbE1ybHdBTk92dnVwaEQyS1pPRUFRZDA2NEEydGlHNWxqdnBnV2FycGpV?oc=5",
+    "published": "2026-11-17T05:25:38+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "CNB뉴스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "국토안전원, 분당선 터널에 AI 로봇 투입…정밀안전진단 - 뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KanJ6YllvSl84amxTY0hwSVJlZ2tBSEF4bXpYay1QZmxSUk04MmJTa0dpczJJZE03dTc3WGF5SzloWG12ejFhTUZ3SDg3LTZUajVERjNhZ0UzNWdBS1V2Z1B6YkhUNTZoYmVXQ2J4NTFzendUbGtDY9IBeEFVX3lxTE9KanJ6YllvSl84amxTY0hwSVJlZ2tBSEF4bXpYay1QZmxSUk04MmJTa0dpczJJZE03dTc3WGF5SzloWG12ejFhTUZ3SDg3LTZUajVERjNhZ0UzNWdBS1V2Z1B6YkhUNTZoYmVXQ2J4NTFzendUbGtDYw?oc=5",
+    "published": "2026-11-17T05:25:02+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "뉴시스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "【신종우 칼럼】 인간을 닮은 AI 로봇, 어디까지 진화할까? - 시사뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKQlAxbW84aW04ZXotajVYVXU0S21UcU1zbW9rMm9uVGNkcmFfRUxXYjVlN3JDQTZ4cEozQ2tHYXRQbHFpUENpbGMtenZHYVowV2Nsbmkxc0pCVklUZFZMQWduSQ?oc=5",
+    "published": "2026-11-17T02:11:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "시사뉴스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "美 앱티브, 중국 '타스봇'과 피지컬 AI 협력 강화…체화형 AI 로봇 최대 1000대 도입 추진 - 로봇신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFQnRremhNSE9La0JEQjlRRk1uWkFnVVphc0NuZUVDNndoMFRURmNvYmx0aXhJcGt6eHg3VzlqSUtaUXNzVTc1SDZGdDdrYktkNXB2NTZEc2dTbWpIcHBSV3FVcktYZ0gtWEk5MQ?oc=5",
+    "published": "2026-11-17T01:48:41+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "로봇신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "목표가 낮췄지만 \"매수\"…KH바텍, AI·로봇 품는다 - 경제타임스",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2R1I2TnBYOHdfdVRqSUNVYVJURTQ0VnJzaTZna09FbFJYZXhucmFyZUk5YTd5T2tWbGtlMzJlcVN2ZC1yVzBNRW9hSE9YQXVvd21V?oc=5",
+    "published": "2026-11-17T01:32:26+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "경제타임스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "[기업포커스] LG전자, 휴머노이드 안전 시범인증 추진하고 국제표준 개발 참여 - 아웃소싱타임스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oN0l2ODROekJqMTVVZ0JoU0NSUDBOb2lzRUVQUU10MFJHQnhuUmxIZWdMUVBoakRUXzZxc2tpUWFWa2NLTDBpNElsQTZtMFFGdzlRV0ZWM1lYa0xhRFpDRkp4NmlFeU1UUGVMQVNxSFZWUQ?oc=5",
+    "published": "2026-11-17T01:28:17+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "아웃소싱타임스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "가정용 로봇"
+    ]
+  },
+  {
+    "title": "\"AI 로봇이 뇌혈관 시술하는 시대 오나\"…레머디 로보틱스, 6,200만 달러 투자 유치 - 인공지능신문",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqV3FyNGoyc3YzbTljNDZrRUthMXVJQy1fSG90eUVTNDNHUUdjZ3ZlWmRodTM2VWkxUFZiVHlhUU1tTkFVUGx2MFlzSXgyMldoREY0alFfQmJCSHFibklYaUdlRXZ6a00?oc=5",
+    "published": "2026-11-17T01:26:44+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "인공지능신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "'AI·로봇' 묶은 CJ대한통운, 물류 핵심은 '컨설팅' - 프라임경제",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40dEtFa0pMNkFSZG4wXzJyTXVpVllNUW9OVE5UaXhtZlM2aVBnc0YtZk5hb0o3RUZCVTdqdll1S2RjcTQyR3V1VlpOeDJRZjE4OHo5V1Jab2kzdTNsLVdFVFhQYUJEVWF3eThhcA?oc=5",
+    "published": "2026-11-17T01:08:04+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "프라임경제",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "메디인테크, 338억 규모 시리즈C 투자 유치... AI 로봇 수술 고도화 속도 - 뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tczE4S1RhNnA1X3dEXzQ1RnRyTlFsLS1IV2hxd1NNYVBkRE9SWFF2M0RrNm9KVFdvY0I0Z3BGQWxyV3Y4SWRVeEV5RmozYmNKb0FqNFhHV2pXNTRBbnc?oc=5",
+    "published": "2026-11-17T01:03:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "뉴스투데이",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "[더테크 픽] CJ대한통운, 물류 분석부터 로봇까지 AI 기술 하나로 묶었다 - 더테크",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CeERNeHFTa2ZpU29Xblc2WVFsWlVtb3RQSHVfRE11Z3dGTVhNTlZGTGhXNkVReC0wbm04UV94VE1GWGZCUzM0TFhpS1JlX2hJdFpicnBEeDEybVBFcDFVU2phNA?oc=5",
+    "published": "2026-11-17T00:27:55+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "더테크",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "크래프톤, 한화 AI·로봇 펀드에 251억 투자 - 뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HY3hSczdCV0dVMzJzUFV1dHp5cTVDNVNCTUlmQUpNLWRIOGtNRFEzdVpKVGgtRC1BU1pxNG04Tlo4cER5OTFZU2pqOUVhY1RCUXVYeFM0NFlESm5v?oc=5",
+    "published": "2026-11-17T00:08:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "뉴스핌",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "중부발전, 발전소 위험작업 대체할 AI 로봇 발굴 - 에너지타임즈",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRVnlQOTVZdkU5TUhGU3dxZF9YNEZDOUNPREV4eG1GUTAzTWZRU1FrVlRNbUU5MVVLWWNVYTNQV25hT1RHUnpMTXVmbldkbnVNMFV1ZFRlaUZlVDBmQm1Lbkhhb2plTnA4SHNKSg?oc=5",
+    "published": "2026-11-17T00:07:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "에너지타임즈",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "성남산업진흥원·LIG, 판교 AI·로봇 기술, 지역 방산 중소기업 육성 - 성남일보",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1YTUxoM2lwaEl6MVhGczRaUE1pYjlqS1dhLUt2bWh1bFZiMGVlbkRxZ3dyOUg4eU1GSnJqZmNqMjJObk0?oc=5",
+    "published": "2026-11-17T00:03:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "성남일보",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "LSK아이로봇, 3분기 영업익 약 8억원…\"흑자전환 성공\" - 뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFSjZFcWRyU1lqUzQxdXRWdnczTWVMRVRkRWRfUnFCSk9GVFZJSkdsMHo2YVdIbFhBTDNTSFl0amYwSkdvOUpIeGhqazBZeUp6dEtNamtIUVVVM2lL?oc=5",
+    "published": "2026-11-16T23:37:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "뉴스핌",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "메디인테크, 338억원 시리즈C 투자유치…수술로봇 확장 - 와우테일",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zRks0dlRSVEt6MTA1SXQ2UzMxTUN6M2J2QUkzOWlORndocEhSeVZXWEFReEIyQ3c5ekh0dFRPUW0xZjAyZV9iaWdkdTVadzg?oc=5",
+    "published": "2026-11-16T23:19:53+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "와우테일",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "메디인테크, 시리즈C서 338억원 확보…AI 로봇내시경 기술로 수술로봇 시장 진출 - 벤처스퀘어",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zZFc5V2UwUFdpWGZ3c081YVhNRlU0RUdzT1ZEcFE5MGxvMl9yZkNKLUp6dW5FWUppMTNLWFh0eFJrSjRUU0NOdEh6LTdzOE0?oc=5",
+    "published": "2026-11-16T23:05:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "벤처스퀘어",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
     "title": "[VC 포트폴리오] 1000억 조달 나선 '로브로스'...AI 로봇 기대감 높인다 - 뉴스투데이",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjRUYxTHRFb2twZkVjMVQxVk51U291QlJvbG95el9CUlZGejVGdVBhZVR3SGFfWUR0TVAxM1JrSFVnWkV6NTFqUDZUR2g3SDhkVllKM3hNR3lvVGpMMXc?oc=5",
     "published": "2026-11-16T22:01:41+00:00",
     "first_seen": "2026-11-16T23:12:30.489172+00:00",
     "source": "뉴스투데이",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "[오늘의 경제뉴스] 로봇 ‘근육’ 쥔 중국…희토류 통제에 한국 ‘피지컬 AI’ 위기 - 뉴스버스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeEJsNm5FS0ZZSFJCcmNYY25HX1p4RVZrU29GTzlnVW1PMXFaY0g1VTJDMDVxaHNla2RHcW1KTkFOQzBkMUlXV3dMZmlWWjdkTnF2LWhxQ2JwVEZ3bDJFNGJ2QnpaRWlHbnc?oc=5",
+    "published": "2026-11-16T21:50:42+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "뉴스버스",
     "categories": [
       "로봇 산업"
     ],
@@ -23,6 +533,19 @@
     ],
     "keywords": [
       "AI 로봇"
+    ]
+  },
+  {
+    "title": "[Tomorrow is decacorn] [브이다임] 인간의 움직임을 로봇 학습용 ‘에피소드 데이터’로 전환 - 비즈니스리포트",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xV2xWOXFQaGhVTmxzM1I1ZUJjX3BVRjJ4M0NNSjE1QWc0dGJpNzMtMWlXdXpxMFdYOUdMUXBKMFVaSEl5NkhGZ29HblhWR25oQkx4MzZYcmFuTVpyWmxGVjZwREVORTZJc1NOSmZGRQ?oc=5",
+    "published": "2026-11-16T21:20:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "비즈니스리포트",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "서비스로봇"
     ]
   },
   {
@@ -151,6 +674,19 @@
     "published": "2026-11-16T10:24:01+00:00",
     "first_seen": "2026-11-16T23:12:30.489172+00:00",
     "source": "영농자재신문",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
+    "title": "다임테크놀로지, AI로 반도체 공장 통합 제어…로봇 생산성 20%↑ - 유니콘팩토리",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5raTBpMDlTTkQ1cldVc0JpTVR6U2JDWE9CbzFfb0hfME9WczRMZHI5VXhhTFh3c0pLYWtwcDMzUHlaQ3JWZnhGVGJKRmxuSFdlSWx3YmZoa2NRQVdTVzRaQmxyajFUSGxXQjZ0Wg?oc=5",
+    "published": "2026-11-16T10:00:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "유니콘팩토리",
     "categories": [
       "로봇 산업"
     ],
@@ -456,6 +992,19 @@
     ],
     "keywords": [
       "AI 로봇"
+    ]
+  },
+  {
+    "title": "이천시, 통합돌봄 에코-케어 사랑방, 작품 전시와 AI 돌봄 로봇 시연 개최 - 경기연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHaHNlaW5SRmRpYXhieEo0aE1VUDE3b25aT2l4RXl5N1F3Tk9xN0hPb1A2UVNvT0xWMWtjSVJtR0hnZEhwRXZfNk1iYUhXQkFySWFPUlFLX3BYczRRU0JLZHMyYTFMSVdQ0gFoQVVfeXFMUEdoc2VpblJGZGlheGJ4SjRoTVVQMTdvblpPaXhFeXk3UXdOT3E3SE9vUDZRU29PTFYxa2NJUm1HSGdkSHBFdl82TWJhSFdCQXJJYU9SUUtfcFhzNFFTQktkczJhMUxJV1A?oc=5",
+    "published": "2026-11-16T05:12:33+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "경기연합뉴스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "돌봄로봇"
     ]
   },
   {
@@ -1761,6 +2310,19 @@
     ]
   },
   {
+    "title": "중부발전, ‘지능형 로봇 챌린지’ 성료…피지컬 AI 기반 발전 현장 안전·효율 혁신 - 스트레이트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aV3VmRkJBdUpjd3lFV3FGNlZqZWdnc3NrMjM0MkdERkpFVjBLR213cHhhc09SNlI5VENXYXA1aUsyampMZzM1d1pBV0dLTENna0EweFZORGo4cmVGMjh0Q0I4dGdqZnByMEtKSTdaZUFsNGc?oc=5",
+    "published": "2026-11-14T08:00:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "스트레이트뉴스",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
     "title": "노타, 인텔 주도 'K-AI 동맹' 합류…AI 최적화 사업 확대 - www.ebn.co.kr",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fMXpYNnF6NjdRdnl2b3BHcjZmZmx4ZE1WeWlCaU5fdWR5NkV5YlpjNjh2c3czaXZUT05ORWN4MzMzUUktZkhpaklzS0hXcU52TDhmWjVvU3NJOFRxbjk4aDdKaEJxVTgw?oc=5",
     "published": "2026-11-14T07:48:31+00:00",
@@ -2124,16 +2686,31 @@
     ]
   },
   {
+    "title": "식품연, AI·로봇 식품 스마트팩토리 표준화 심포지엄 개최 - 머니투데이 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMFhRaDVRcmh6bGxwZXNoOUxJcjhnem9FYlk3eEd6eTFSNFBzRXZCU2Z5N2NZNTJ1VXdRVWxLTllNWllOMnBOY0hJWXhHWWVkYWFua0FsZ1lub0tWemVnd0xsTk1oQmtQbGfSAW9BVV95cUxQcFMwcHJSS1RXYmRNalVxWDEyc0xmemRIYVRmWTdnbVFrbmgxZVhrcWlGcjdxci1TTlVwVF9BLVVJREdCblZUT3ZKOXBQZ2JLcUcyVHZTUU5LeW1VYU84Y19OUklWUzIwMHdheWlPTXc?oc=5",
+    "published": "2026-11-13T08:00:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "머니투데이",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
     "title": "청양군, AI 돌봄로봇 ‘청양안심이’ 보급… 24시간 초밀착 안심케어 시동 - 대전시티저널",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiSjE0N0ZsRlBKckY3N0VNdGtwVFJwdE9fak0xSF81ZVc4dGlqXzMtR3VOZGM4NzZkdkdLV2ZpMnRvenplYW5PUEhIc2lobWhHeEEwc1N6ODJYRlhkQXAzbDFmMEI?oc=5",
     "published": "2026-11-13T07:58:07+00:00",
     "first_seen": "2026-11-16T23:12:30.489172+00:00",
     "source": "대전시티저널",
     "categories": [
-      "로봇 산업"
+      "로봇 산업",
+      "시장·사업 동향"
     ],
     "keywords": [
-      "돌봄로봇"
+      "돌봄로봇",
+      "AI 돌봄 서비스"
     ]
   },
   {
@@ -2230,6 +2807,19 @@
     "first_seen": "2026-11-13T07:08:30+00:00"
   },
   {
+    "title": "로봇도 사람 취향 맞춘다…ETRI, 맞춤형 AI 평가기술 개발 - 티제이비",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DMm8wTUp1SW1WQk14UHJ2aWZvc2VuVDhwSUJ3Ui1FWmo1TlBCRGlYTVBYOUhseTZxT3RaUnVpWGN2ajhfQ2V2d3FrY2RpZmNsWlZValExVFRDcGluTDI0b2Vn?oc=5",
+    "published": "2026-11-13T06:57:29+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "티제이비",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "서비스로봇"
+    ]
+  },
+  {
     "title": "정부, 자동차·가전·로봇 등 탑재 AI반도체 10종 \"2030년까지 개발\" - 경북구미신문",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RR1cxNWNnYU1XS3BSRFVCZjZLS3dvTTBlNnNaNDlBdF9FeklLLWdtTVJSbkxaaVVwak10NU01RFRVNHhfVFcwOE84c0NNa2FyVnVsOTU1ZDNseVg5MFF2WVdZSm5oSFBDeEE?oc=5",
     "published": "2026-11-13T06:34:57+00:00",
@@ -2254,6 +2844,19 @@
       "서비스로봇"
     ],
     "first_seen": "2026-11-13T06:27:58+00:00"
+  },
+  {
+    "title": "[G&G 人사이드-⑤ 김지희 효돌 대표] \"사업은 인생을 건 긴 여행\"…G&G School서 배운 함께 성장하는 경영 - K글로벌타임스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tS0I2VjZRNDRyckx5d0xCVHppR2g0MHFwWXJ1amFzbVlHeVlUd2J5c0ZlSGlHclZaSmVhcFhWejNRSW1VSS1scXFnRXV0dWNkNlhhcU56VEFKMVMxVVktVnlqUjhweEFXWXFsaTNn?oc=5",
+    "published": "2026-11-13T06:27:52+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "K글로벌타임스",
+    "categories": [
+      "경쟁사·유사업체"
+    ],
+    "keywords": [
+      "효돌"
+    ]
   },
   {
     "title": "환경보전원, 양평 ‘수풀로 양수리’서 AI 로봇 생태해설 시범 운영 - 전기신문",
@@ -2442,6 +3045,19 @@
     "first_seen": "2026-11-13T04:09:28+00:00"
   },
   {
+    "title": "포항 제철소 위험 작업에 AI·로봇 도입 추진 - Tbc.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2FNclJPVUtoNThjczFHeUp3dHJ5RWIzb2NPTkNZa3NzYVNXNmRQTlhCMGlwNWZzVmxweGZubE82NnpIQW1qUlNTMFk5YU5DNjdLQXJLM0VVdXpBUmZVZmxnNVA3akVJdDcxSWlGVjVVbWd5eUYwZ01uUzVXMTRVVjhja2ExUQ?oc=5",
+    "published": "2026-11-13T04:09:28+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "Tbc.co.kr",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 로봇"
+    ]
+  },
+  {
     "title": "식품산업, AI·로봇 도입 확산…표준화로 제조혁신 뒷받침 - 한국식품의약신문",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tOUljS3UtaE5BN0RwNE5kWDItZ3JnN0lBWFZkbk5IN1hDbDJBVk9KSHhncUtZVTlEMkV2WDFnOVpnakM2cWE1SzlYWnJncFZYc0VLRVlmMjBSTUJkd2l4TW1wS2UzZzg?oc=5",
     "published": "2026-11-13T03:26:24+00:00",
@@ -2587,6 +3203,32 @@
     ]
   },
   {
+    "title": "에브리봇, ‘키즈케어 로봇’ 사업화 속도…실버케어와 ‘케어로봇’ 양축 구축 - 매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RRENOcE9rSzVKQ09YcE12dlpJNmIxUV9kVkxJU1JXaFQ1NjQ1eE5ORFcyTHlDTEFpX0NKbjBTaHJ2OUw2TmtHRzJ0NEZ6VW1qQ0E?oc=5",
+    "published": "2026-11-13T01:12:50+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "매일경제",
+    "categories": [
+      "경쟁사·유사업체"
+    ],
+    "keywords": [
+      "AI 반려로봇"
+    ]
+  },
+  {
+    "title": "에브리봇, ‘키즈케어 로봇’ 사업화 속도…실버케어와 ‘케어로봇’ 양축 구축 - 매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41NzFNVklSaHByeEZ6SmxBa0RUUkhGZFgtVW04dm9PSzRPd0lLVm8tbWVLX3VKN2c2UEliZlVOb0JUZkRYZ3psbUdCZXBVbC1DTnc?oc=5",
+    "published": "2026-11-13T01:12:50+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "매일경제 마켓",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "서비스로봇"
+    ]
+  },
+  {
     "title": "딥엑스, 인텔과 AI 최적화 생태계 구축…서버부터 로봇까지 사업 확대 - 녹색경제신문",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZVVmVUNjODB0QnM0a093Z0hXS2hPODVJV0ZOZkJMdUFLaGVVWmcyeFRtci1QT3RYVktvbnFaVFkwcmJsUFZMbVBYeVY1bW5zd0M1cVNNdG5Bd1JtSHIyV1kxb0cxaWp3?oc=5",
     "published": "2026-11-13T01:08:35+00:00",
@@ -2637,6 +3279,19 @@
       "돌봄로봇"
     ],
     "first_seen": "2026-11-13T00:57:00+00:00"
+  },
+  {
+    "title": "에브리봇, '키즈케어 로봇' 사업 본격화 - 뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oM3VkSTZlVVFHaVgyS3ZwdkJyM3B2MEJvN3R4dlpRMVBZLTFuekliNDRmblVxUEYwT05hYXdhRnh0YVMycGstdUZIeWJvcWdqWTBTVVZUX1pVWGVI?oc=5",
+    "published": "2026-11-13T00:53:00+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "뉴스핌",
+    "categories": [
+      "로봇 산업"
+    ],
+    "keywords": [
+      "서비스로봇"
+    ]
   },
   {
     "title": "LG전자, 홈로봇 ‘클로이드’에 엔비디아 탑재 실증···국산칩 채택 가능성 여전 - 시사저널e",
@@ -2943,6 +3598,21 @@
       "로봇 산업"
     ],
     "keywords": [
+      "반려로봇"
+    ]
+  },
+  {
+    "title": "전남광주통합특별시의회 이은정 의원, “AI 돌봄, 보급․설치보다 사후관리 중요” - 누리일보",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04OGNvRVJnSEFVSy1NbklScFV1SkhWS01sQUdmbTRaVnM5SnFEZEpCZzF6NmFHZnBGX2J6cFBYNFBGYVNreTQyZHpQelFGYVdIUnRLdTdXRVplaUdpcDNj?oc=5",
+    "published": "2026-11-12T10:10:04+00:00",
+    "first_seen": "2026-11-17T23:19:29.957588+00:00",
+    "source": "누리일보",
+    "categories": [
+      "경쟁사·유사업체",
+      "로봇 산업"
+    ],
+    "keywords": [
+      "AI 반려로봇",
       "반려로봇"
     ]
   },
